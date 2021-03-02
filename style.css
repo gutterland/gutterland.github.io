@@ -10,6 +10,7 @@ body {
   position: absolute;
   line-height: normal;
   width: 100%;
+  overflow: hidden;
 }
 
 h1 {
